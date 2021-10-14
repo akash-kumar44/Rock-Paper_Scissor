@@ -7,7 +7,7 @@
 - Open in any IDE(for eg. VS Code, PyCharm)
 - Run the file ```RPS.py```
 ## 🙌Quick Start to Contribute? 
-- Fork the Repository [clicking the fork button in the upper right hand corner of a repo page]
+- Fork the Repository [click the fork button in the upper right hand corner of a repo page]
 - Clone this Repository ```https://github.com/<Your-UserName>/Rock-Paper_Scissor```
 - Go to the code file and make the changes.
 
